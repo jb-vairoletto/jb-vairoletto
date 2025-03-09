@@ -1,10 +1,10 @@
 Hi 👋 My name is Rodrigo Mendez
 ===============================
 
-Backend Developer
+Developer
 -----------------
 
-I'm Rodrigo Exequiel Mendez, a programming student passionate about backend development and building efficient, scalable systems. I have experience working with C, Javascript, Python and I am continuously improving my skills in database design, API development, and modern web technologies like React and NodeJS to create impactful applications. My goal is to build applications that solve real-world problems while maintaining clean, maintainable code and leveraging best practices in software development.
+I'm Rodrigo Exequiel Mendez, a programming student passionate about development and building efficient, scalable systems. I have experience working with C, Javascript, Python and I am continuously improving my skills in database design, API development, and modern web technologies like React and NodeJS to create impactful applications. My goal is to build applications that solve real-world problems while maintaining clean, maintainable code and leveraging best practices in software development.
 
 *   ✉️  You can contact me at [mendez.r@hotmail.com](mailto:mendez.r@hotmail.com)
 *   ### Skills 
