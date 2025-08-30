@@ -1,10 +1,4 @@
-Hi 👋 My name is Rodrigo Mendez
-===============================
-
-Developer
------------------
-
-### ¡Hola! Soy Rodrigo 👋
+## ¡Hola! Soy Rodrigo 👋
 
 Siempre me gustó desarmar cosas para entender cómo funcionaban. Acá vas a encontrar un poco de todo: desde la gestión de memoria a bajo nivel con **C**, pasando por APIs con **Node.js** y **C#**, hasta mis aventuras en un mainframe con **COBOL** ( porque, ¿por qué no? jajaja ). 
 Me divierte el desafío de resolver problemas, ya sea en un sistema crítico o en una app web. Si andás en la misma o tenés alguna idea dando vueltas, avisame. Una buena charla sobre tecnología siempre es bienvenida.
